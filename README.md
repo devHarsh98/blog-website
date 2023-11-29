@@ -10,6 +10,7 @@ A simple blog website built with Vite, React, Firebase Authentication, and Fires
 
 ## Setup
 
+
 1. Clone the repository: `git clone https://github.com/your-username/vite-react-firebase-blog.git`
 2. Install dependencies: `npm install`
 3. Set up Firebase: Replace the placeholder values in `src/firebase.js` with your Firebase project configuration.

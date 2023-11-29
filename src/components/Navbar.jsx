@@ -10,7 +10,7 @@ const Navbar = () => {
         signOut(auth).then(() => {
             setIsAuth(false);
             localStorage.clear();
-            window.location.pathname = '/login';             // navigate
+            window.location.pathname = '/';             // navigate
         })
     }
     return (
